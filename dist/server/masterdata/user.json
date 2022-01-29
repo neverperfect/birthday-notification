@@ -1,0 +1,20 @@
+[
+    {
+        "first_name": "Adhi",
+        "last_name": "Ariawan",
+        "timezone":"Asia/Jakarta",
+        "birthdate":"2010-11-20"
+    },
+    {
+        "first_name": "Peter",
+        "last_name": "Smith",
+        "timezone":"Australia/Melbourne",
+        "birthdate":"2002-01-22"
+    },
+    {
+        "first_name": "Samantha",
+        "last_name": "Taylor",
+        "timezone":"Australia/Perth",
+        "birthdate":"1999-11-20"
+    }
+]
